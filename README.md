@@ -25,6 +25,16 @@ Write your own steps
 
 ### STEP 3:
 
+### STEP 4:
+
+### STEP 5:
+
+### STEP 6:
+
+### STEP 7:
+
+### STEP 8:
+
 
 ## PROGRAM
 
