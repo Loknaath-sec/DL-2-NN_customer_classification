@@ -1,4 +1,4 @@
-# Developing a Neural Network Classification Model
+# EXP-2: Developing a Neural Network Classification Model
 
 ## AIM
 
@@ -13,8 +13,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
+<img width="1004" height="842" alt="image" src="https://github.com/user-attachments/assets/78cb1a4b-ee7d-4c8c-bd67-bb66c212a1a8" />
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -28,8 +28,8 @@ Write your own steps
 
 ## PROGRAM
 
-### Name: 
-### Register Number:
+### Name: LOKNAATH P
+### Register Number: 212223240080
 
 ```python
 class PeopleClassifier(nn.Module):
